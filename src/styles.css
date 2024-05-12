@@ -133,6 +133,7 @@ header a {
 main {
   background-color: white;
   color: #272044;
+  padding: 40px;
 }
 
 main h2 {
@@ -185,6 +186,7 @@ footer {
 
   background-repeat: no-repeat;
   background-size: cover;
+  padding: 40px;
 }
 
 footer h3 {
